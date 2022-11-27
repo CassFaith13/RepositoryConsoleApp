@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ClaimsDeptConsole/1.0.0": {
+        "dependencies": {
+          "ClaimsDeptRepository": "1.0.0"
+        },
+        "runtime": {
+          "ClaimsDeptConsole.dll": {}
+        }
+      },
+      "ClaimsDeptRepository/1.0.0": {
+        "runtime": {
+          "ClaimsDeptRepository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClaimsDeptConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClaimsDeptRepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

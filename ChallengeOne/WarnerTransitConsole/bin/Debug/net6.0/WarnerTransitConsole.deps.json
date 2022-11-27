@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WarnerTransitConsole/1.0.0": {
+        "dependencies": {
+          "WarnerTransitRepository": "1.0.0"
+        },
+        "runtime": {
+          "WarnerTransitConsole.dll": {}
+        }
+      },
+      "WarnerTransitRepository/1.0.0": {
+        "runtime": {
+          "WarnerTransitRepository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WarnerTransitConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WarnerTransitRepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
